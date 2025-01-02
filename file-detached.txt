@@ -1,0 +1,1 @@
+File created when git is in detached state.
